@@ -1,7 +1,7 @@
 # GSoC_Task
 Task's Readme Page
 
-The .dat files downloaded from the internet is processed using preProcess.py to generate a DST_DATA.csv file, which contains the data as per the format shown here [format](http://wdc.kugi.kyoto-u.ac.jp/dstae/format/dstformat.html)
+The .dat files downloaded from the internet is processed using preProcess.py to generate a DST_DATA.csv file, which contains the data as per the format shown here ![alt text](https://github.com/SectumPsempra/GSoC_Task/blob/master/DSTFormat.png)
 
 ## Step - 1 =>
 
