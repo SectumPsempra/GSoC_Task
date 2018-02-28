@@ -1,7 +1,7 @@
 # GSoC_Task
 Task's Readme Page
 
-The .dat files downloaded from the internet is processed using preProcess.py to generate a DST_DATA.csv file, which contains the data as per the format shown here [a link](http://wdc.kugi.kyoto-u.ac.jp/dstae/format/dstformat.html)
+The .dat files downloaded from the internet is processed using preProcess.py to generate a DST_DATA.csv file, which contains the data as per the format shown here [format](http://wdc.kugi.kyoto-u.ac.jp/dstae/format/dstformat.html)
 
 ## Step - 1 =>
 
@@ -10,7 +10,7 @@ pip install pandas
 
 ## Step - 2 =>
  
-1. Run preProcess.py after modifying the location in which you have kept .dat file downloaded from github in this case or the internet from here [a link](http://wdc.kugi.kyoto-u.ac.jp/dstae/) 
+1. Run preProcess.py after modifying the location in which you have kept .dat file downloaded from github in this case or the internet from here [dst webpage](http://wdc.kugi.kyoto-u.ac.jp/dstae/) 
 
 ## Step - 3 =>
 
