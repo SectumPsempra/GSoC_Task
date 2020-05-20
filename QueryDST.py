@@ -1,7 +1,7 @@
 import mysql.connector as conn
 
-cnx = conn.connect(user='root', password='amit',
-                   host='localhost', database='amit')
+cnx = conn.connect(user='####', password='####',
+                   host='####', database='####')
 cursor = cnx.cursor(buffered=True)
 
 #--------------------------------------------------------------------------------#
