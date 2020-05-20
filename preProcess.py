@@ -18,7 +18,7 @@ HOURLY_VALUE = []
 DAILY_MEAN_VALUE = []
 
 # input the .dat file
-data = '/home/severus/Desktop/DST Files/Jan57-Feb18.dat'
+data = '/../../../DST Files/Jan57-Feb18.dat'
 
 # Open the data file and access the contents
 # assign rows content to specific list variables
